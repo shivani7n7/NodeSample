@@ -1,1 +1,1 @@
-# NodeSample
+this project is built on top of Node and express
